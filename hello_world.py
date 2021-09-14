@@ -1,1 +1,1 @@
-prunt('Hola mundo, soy de TERCERO C')
+print('Hola mundo, soy de TERCERO C')
