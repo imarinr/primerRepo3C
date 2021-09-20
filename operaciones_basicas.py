@@ -6,9 +6,10 @@ print("Este programa hace operaciones basicas")
 num1 = 130
 numero_2 = 345
 suma = num1 + numero_2 # la resta se hace con el simbolo '-'
-multip = num1 * numero_2 # la dicision se hace con una '/'
+multip = num1 * numero_2 # la division se hace con una '/'
 
 print("la suma es: ")
 print(suma)
 print("La multiplicacion da como resultado: ", multip)
+
 
