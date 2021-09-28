@@ -1,0 +1,11 @@
+1. Inicio
+2. Definir anio_actual = 2021
+3. Preguntar al usuario "Que edad tienes?"
+4. Definir edad_actual = entrada del usuario
+5. Preguntar al usuario "A que edad te quieres retirar?"
+6. Definir edad_de_retiro = entrada del usuario
+7. Hacer anios_para_retiro = edad_de_retiro - edad-edad_actual
+8. Hacer anio_de_retiro = anio_actual + anios_para_retiro
+9. Mostrar mensaje "Tienes " anios_para_retiro " hasta que te puedas retirar"
+10. Mostrar mensaje  "Es el año " anio_actual " entonces te podras retirar en " anio_de_retiro
+11. Fin
